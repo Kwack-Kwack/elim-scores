@@ -10,3 +10,6 @@ feel free to contact me in-game with any queries about this data.
 
 #### What does the updated boolean mean?
 When I update all my data, if I fail to get a new value for someone their "updated" boolean is assigned as false. This can either mean my scraping bugged (occasionally happens), or more usually that they've left the competition. You can normally get a good gauge of how many nubs you've forced to leave by how many false's you have, Nova.
+
+### What does the final boolean mean?
+Pretty self-explanatory, a user gains this when their team has been eliminated. Their data will no longer be updated/collected.
