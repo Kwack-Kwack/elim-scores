@@ -1,4 +1,4 @@
-users whose teams were eliminated whilst they had a score of 0:
+### users whose teams were eliminated whilst they had a score of 0:  
 [ani [2084723]](https://www.torn.com/profiles.php?XID=[2084723]), Level 96 of team satants-soldiers  
 [Ahri [2003302]](https://www.torn.com/profiles.php?XID=[2003302]), Level 62 of team satants-soldiers  
 [ShadowZulu [2806821]](https://www.torn.com/profiles.php?XID=[2806821]), Level 13 of team satants-soldiers  
